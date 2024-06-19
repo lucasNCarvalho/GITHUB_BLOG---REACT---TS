@@ -8,6 +8,10 @@ export const GlobalStyle = createGlobalStyle`
     box-sizing: border-box
 }
 
+body {
+    background: ${(props) => props.theme.base_background};
+}
+
 body,input,button {
         font: 400 1rem Nunito, sans-serif;
     }

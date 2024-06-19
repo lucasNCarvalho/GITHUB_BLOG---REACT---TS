@@ -3,7 +3,7 @@ export const defaultTheme = {
 
     blue: '#3294F8',
     base_title: '#E7EDF4',
-    base_subititle: '#C4F4E3',
+    base_subititle: '#C4D4E3',
     base_Text: '#AFC2D4',
     base_span: '#7B96B2',
     base_label: '#3A536B',
